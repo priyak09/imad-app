@@ -10,6 +10,6 @@ button.onclick = function(){
           }
       }
   };
-  request.open('GET','http://priyak.twinkle.imad.hasura-app.io/counter'.true);
+  request.open('GET','http://priyaktwinkle.imad.hasura-app.io/counter'.true);
   request.send(null);
 };
